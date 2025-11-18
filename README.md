@@ -29,9 +29,11 @@ The database includes the following tables:
 
 ## 🚀 Installation & Usage
 
-1. Clone the repository:
-```bash
+1. Clone the repository
+
 git clone https://github.com/YOUR_USERNAME/python-sqlite-university.git
 cd python-sqlite-university
-2. Run the main script:
+
+2. Run the main script
+
 python python_solution.py
