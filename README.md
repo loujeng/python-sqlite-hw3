@@ -33,5 +33,6 @@ The database includes the following tables:
 ```bash
 git clone https://github.com/YOUR_USERNAME/python-sqlite-university.git
 cd python-sqlite-university
+
 2. Run main script
 python python_solution.py
